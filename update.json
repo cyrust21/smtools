@@ -1,0 +1,11 @@
+{
+"Update_Version" : "1.0",
+"Update_Message" : "New update Realese on PlayStore",
+"Update_Url" : "www.cyrust.app",
+
+"Dialog_Info" : "true",
+"Dialog_Message" : "Re-Ap",
+"Dialog_Button" : "ok",
+"Dialog_Url" : "",
+"Dialog_Action" : "false"
+}
