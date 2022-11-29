@@ -6,6 +6,6 @@
 "Dialog_Info" : "true",
 "Dialog_Message" : "Re-Ap",
 "Dialog_Button" : "ok",
-"Dialog_Url" : "",
-"Dialog_Action" : "false"
+"Dialog_Url" : "https://www.cyrust.app/?m=1",
+"Dialog_Action" : "true"
 }
