@@ -1,11 +1,11 @@
 {
 "Update_Version" : "1.0",
 "Update_Url" : "www.google.com",
-"Update_Message" : "Please update to version: ",
+"Update_Message" : "",
 "Layout_Message" : "Those who are mostly foreign residents call the gameplay of Sigma Battle Royale a bit similar to FF Free Fire.",
 "Dialog_Info" : "true",
 "Dialog_Message" : "This is tools for sigma",
 "Dialog_Button" : "update",
 "Dialog_Url" : "https://www.cyrust.app/?m=1",
-"Dialog_Action" : "false"
+"Dialog_Action" : "true"
 }
