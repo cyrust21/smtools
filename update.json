@@ -3,9 +3,10 @@
 "Update_Url" : "https://www.google.com",
 "Update_Message" : "",
 "Layout_Message" : "Those who are mostly foreign residents call the gameplay of Sigma Battle Royale a bit similar to FF Free Fire.",
-"Dialog_Info" : "false",
-"Dialog_Message" : "This is tools for sigma",
+"Dialog_Info" : "true",
+"Dialog_Message" : "This is tools for SIGMA
+What's YouTube Cyrust Game",
 "Dialog_Button" : "continue",
-"Dialog_Url" : "https://www.cyrust.app/?m=1",
-"Dialog_Action" : "false"
+"Dialog_Url" : "https://youtu.be/HUSFV94h3tc",
+"Dialog_Action" : "true"
 }
