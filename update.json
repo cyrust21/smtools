@@ -5,7 +5,7 @@
 "Layout_Message" : "Those who are mostly foreign residents call the gameplay of Sigma Battle Royale a bit similar to FF Free Fire.",
 "Dialog_Info" : "false",
 "Dialog_Message" : "This is tools for sigma",
-"Dialog_Button" : "update",
+"Dialog_Button" : "continue",
 "Dialog_Url" : "https://www.cyrust.app/?m=1",
-"Dialog_Action" : "true"
+"Dialog_Action" : "false"
 }
