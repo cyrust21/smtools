@@ -1,11 +1,11 @@
 {
 "Update_Version" : "1.0",
-"Update_Message" : "New update Realese on PlayStore",
+"Update_Message" : "Please update to version: ",
 "Update_Url" : "www.cyrust.app",
 
 "Dialog_Info" : "true",
-"Dialog_Message" : "Re-Ap",
-"Dialog_Button" : "ok",
+"Dialog_Message" : "This is tools for sigma",
+"Dialog_Button" : "update",
 "Dialog_Url" : "https://www.cyrust.app/?m=1",
 "Dialog_Action" : "true"
 }
